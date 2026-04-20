@@ -1,4 +1,4 @@
-# Help Desk & Active Directory Home Lab
+# Help Desk Simulation Home Lab
 
 ## Overview
 This project is a hands-on IT support and systems administration home lab built to simulate a real-world help desk environment. The lab was created using VirtualBox and includes Windows 11, Ubuntu Linux, and Windows Server 2022 systems.
