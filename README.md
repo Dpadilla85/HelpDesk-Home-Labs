@@ -177,10 +177,4 @@ This project strengthened my ability to troubleshoot IT issues, manage Active Di
 
 ---
 
-## 👤 Author
-Your Name
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
+By David Padilla
